@@ -12,4 +12,5 @@ function NegOrPos(int $var)
     
 }
 NegOrPos(-9);
+
 ?>
